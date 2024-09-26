@@ -4,7 +4,11 @@ body{
 }
 
 .container{
-    margin-left: 20px;
+    margin: 20px;
+    background-color: aqua;
+    border-radius: 10px;
+    padding: 10px;
+    
 }
 
 h1{
@@ -16,4 +20,11 @@ p{
     font-style: oblique;
     color: red;
     font-size: larger;
+}
+
+.intro{
+    border: 3px red solid;
+    border-radius: 10px;
+    text-align: center;
+    
 }
